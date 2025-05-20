@@ -2,7 +2,6 @@
 
 Este repositorio contiene un script en R que genera una animación 3D usando `plotly` a partir de un modelo binomial ajustado, con la idea de reproducir los excelentes videos educativos sobre estadística en https://www.youtube.com/@Frans_Rodenburg
 ## 📊 Vista previa
-
 ![Animación generada](animacion_plotly.gif)
 
 ## 📂 Estructura
