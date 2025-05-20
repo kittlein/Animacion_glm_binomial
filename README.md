@@ -6,7 +6,7 @@ Este repositorio contiene un script en R que genera una animación 3D usando `pl
 
 - `glm binomial 3D (plot-ly).R`: script R que genera una secuencia de imágenes y produce un GIF animado.
 - `animacion.gif`: resultado final de la animación.
-- `img/`: carpeta opcional con imágenes `.png` intermedias, si se incluyen.
+- `frames/`: carpeta opcional con imágenes `.png` intermedias, si se incluyen.
 
 ## ▶️ Ejecutar
 
