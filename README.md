@@ -1,6 +1,9 @@
 # Animación de Modelo GLM Binomial en 3D
 
 Este repositorio contiene un script en R que genera una animación 3D usando `plotly` a partir de un modelo binomial ajustado.
+## 📊 Vista previa
+
+![Animación generada](animacion_plotly.gif)
 
 ## 📂 Estructura
 
@@ -20,15 +23,3 @@ Para generar la animación:
 
 4. Ejecutalo desde RStudio o una consola de R.
 5. Se generará un archivo `.gif` con la animación final.
-
-## 📊 Vista previa
-
-![Animación generada](animacion_plotly.gif)
-
-## 💡 Fragmento del código
-
-```r
-for (i in 1:20) {
-  filename <- sprintf("x0_%02d.png", i)
-  # Código para crear y guardar la imagen
-}
