@@ -13,12 +13,13 @@ Este repositorio contiene un script en R que genera una animación 3D usando `pl
 Para generar la animación:
 
 1. Asegurate de tener instalados los paquetes `plotly`, `animation`, `magick` y otros requeridos.
-2. Abrí el script:
+2. plotly necesita una instalación funcional del paquete kaleido en python para guardar las imagenes como png.
+3. Abrí el script:
 
    [`glm binomial 3D (plot-ly).R`](glm%20binomial%203D%20(plot-ly).R)
 
-3. Ejecutalo desde RStudio o una consola de R.
-4. Se generará un archivo `.gif` con la animación final.
+4. Ejecutalo desde RStudio o una consola de R.
+5. Se generará un archivo `.gif` con la animación final.
 
 ## 📊 Vista previa
 
